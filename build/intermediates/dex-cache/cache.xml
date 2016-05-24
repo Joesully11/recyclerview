@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ronan.p.higgins\.gradle\caches\modules-2\files-2.1\com.backendless\backendless\3.0.15.1\f24092d9b94d6b379079bfdf5db3e026d9795f49\backendless-3.0.15.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f24092d9b94d6b379079bfdf5db3e026d9795f49">
+        <dex dex="C:\Users\ronan.p.higgins\AndroidStudioProjects\Async-ListView-Image-Loader-master\app\build\intermediates\pre-dexed\debug\backendless-3.0.15.1_2e45bce6d8f9c7b1411933c09960c23c4c2f92d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ronan.p.higgins\AndroidStudioProjects\Async-ListView-Image-Loader-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\ronan.p.higgins\AndroidStudioProjects\Async-ListView-Image-Loader-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_d88aa3839e3b25bad476b31f7403ec732bb48adf.jar" />
+    </item>
+    <item
+        jar="C:\Users\ronan.p.higgins\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ronan.p.higgins\AndroidStudioProjects\Async-ListView-Image-Loader-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1688c4fcb252012d4add6ddba355b2aa05295583.jar" />
+    </item>
+
+</items>
